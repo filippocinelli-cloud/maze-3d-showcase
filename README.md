@@ -2,7 +2,7 @@
 
 # Maze 3D
 
-**Un labirinto 3D a turni a bordo di una nave diretta verso l'ignoto. 90 livelli, gratis, si gioca dal browser.**
+**Un labirinto 3D a turni a bordo di una nave diretta verso l'ignoto. 100 livelli, gratis, si gioca dal browser.**
 
 ▶ **[Gioca ora](https://www.nalimw.it/projects/games/maze/)** · [Scheda del gioco](https://www.nalimw.it/maze-3d) · [English page](https://www.nalimw.it/maze-3d/en) · [itch.io](https://nalimw.itch.io/maze) · [Game Jolt](https://gamejolt.com/games/maze-3d/1101994)
 
@@ -16,7 +16,7 @@
 ### Il gioco
 Guidi **Sym**, l'intelligenza artificiale di bordo, attraverso mondi-labirinto, mentre **l'Eco** ripercorre i tuoi passi. Si avanza a turni: ogni casella è una scelta.
 
-- **90 livelli** in **9 moduli** e **18 capitoli** di storia, dalla Terra allo spazio fra le stelle
+- **100 livelli** in **10 moduli** e **20 capitoli** di storia, dalla Terra verso un pianeta nuovo
 - **Sfida giornaliera** con classifiche e serie di giorni
 - Accesso facoltativo con **Google** per ritrovare i progressi su ogni dispositivo
 - **Italiano e inglese**
@@ -54,14 +54,14 @@ Il codice sorgente è privato: questo repository presenta il progetto.
 <a name="-english"></a>
 ## 🇬🇧 English
 
-**A turn-based 3D maze aboard a ship bound for the unknown. 90 levels, free, runs in your browser.**
+**A turn-based 3D maze aboard a ship bound for the unknown. 100 levels, free, runs in your browser.**
 
 ▶ **[Play now](https://www.nalimw.it/projects/games/maze/)** · [Game page](https://www.nalimw.it/maze-3d/en) · [itch.io](https://nalimw.itch.io/maze) · [Game Jolt](https://gamejolt.com/games/maze-3d/1101994)
 
 ### The game
 You guide **Sym**, the ship's AI, through maze-worlds while **the Echo** retraces your steps. Movement is turn-based: every tile is a choice.
 
-- **90 levels** across **9 modules** and **18 story chapters**, from Earth to interstellar space
+- **100 levels** across **10 modules** and **20 story chapters**, from Earth towards a new planet
 - **Daily Challenge** with leaderboards and streaks
 - Optional **Google sign-in** to keep your progress on every device
 - **English and Italian**
