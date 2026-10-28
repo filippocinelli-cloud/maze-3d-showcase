@@ -26,6 +26,8 @@ Guidi **Sym**, l'intelligenza artificiale di bordo, attraverso mondi-labirinto, 
 |---|---|
 | ![Sym attraversa il varco verso un mondo-labirinto](screenshots/maze-3d-3.jpg) | ![L'Eco segue Sym sopra la lava](screenshots/maze-3d-4.jpg) |
 
+![Il Modulo 10, L'appartenenza: un corridoio della nave con Philia, il pianeta nuovo, nell'oblò](screenshots/maze-3d-10.jpg)
+
 ### Come è fatto
 - **TypeScript** in modalità strict, **React** e **Vite**, **Tailwind CSS**
 - **Three.js** per il 3D: stanze della nave, mondi-labirinto, cielo con costellazioni e pianeti
@@ -34,7 +36,7 @@ Guidi **Sym**, l'intelligenza artificiale di bordo, attraverso mondi-labirinto, 
 - Effetti sonori e musica dei livelli **sintetizzati in tempo reale** con la Web Audio API
 - **PWA**: service worker e manifest, installabile su telefono e PC
 - Pubblicato su **nalimw.it**, **itch.io** e **Game Jolt**
-- Circa **75.000 righe** di TypeScript, **450+ commit** dal 13 agosto 2026
+- Circa **81.000 righe** di TypeScript, **465+ commit** dal 13 agosto 2026
 
 ### Chi l'ha fatto e come
 Ideazione, game design, storia, test e pubblicazione: **Filippo Cinelli**.
@@ -67,6 +69,8 @@ You guide **Sym**, the ship's AI, through maze-worlds while **the Echo** retrace
 - **English and Italian**
 - Nothing to download: it runs in the browser on phone and desktop, and can be **installed as an app**
 
+![Module 10, Belonging: a ship corridor with Philia, the new planet, in the porthole](screenshots/maze-3d-10.jpg)
+
 ### How it's built
 - **TypeScript** (strict mode), **React** and **Vite**, **Tailwind CSS**
 - **Three.js** for the 3D: ship rooms, maze-worlds, a sky with constellations and planets
@@ -75,7 +79,7 @@ You guide **Sym**, the ship's AI, through maze-worlds while **the Echo** retrace
 - Sound effects and level music **synthesized in real time** with the Web Audio API
 - **PWA**: service worker and manifest, installable on phone and desktop
 - Published on **nalimw.it**, **itch.io** and **Game Jolt**
-- About **75,000 lines** of TypeScript, **450+ commits** since August 13, 2026
+- About **81,000 lines** of TypeScript, **465+ commits** since August 13, 2026
 
 ### Who made it, and how
 Concept, game design, story, testing and release: **Filippo Cinelli**.
